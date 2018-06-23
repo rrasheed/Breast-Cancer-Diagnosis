@@ -12,6 +12,8 @@ $ conda install seaborn
    
 $ conda install graphviz
 
+(Optional)  $ conda install watermark
+
 ## Running Code
 Upload Breast_Cancer_Classification.ipynb onto the Jupyter Notebook. The code already has a link to the data built in. All that is needed is to "Run All"
 
@@ -44,6 +46,12 @@ largest values) of these features were computed for each image,
 resulting in 30 features 
 
 ## Sources
-Raschka, Sebastian. Python machine learning. Birmingham, UK: Packt Publishing, 2015. Print.
+[1] Raschka, Sebastian. Python machine learning. Birmingham, UK: Packt Publishing, 2015. Print.
 
-Wolberg, William H. MD; Street, Nick; Mangasarian, Olvi L. (1995) Breast Cancer Wisconsin (Diagnostic) Data Set [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+Diagnostic]. Madison, WI: University of Wisconsin, Department of Computer Science and Departmnet of General Surgery.
+[2] UCI Machine Learning Repository: Center for Machine Learning and Intelligent Systems.
+Breast cancer wisconsin (diagnostic) data set: wdbc.data. http://archive.ics.uci.edu/ml/
+machine-learning-databases/breast-cancer-wisconsin/wpbc.data, 1996.
+
+[3] UCI Machine Learning Repository: Center for Machine Learning and Intelligent Systems.
+Breast cancer wisconsin (diagnostic) data set: wdbc.names. http://archive.ics.uci.edu/ml/
+machine-learning-databases/breast-cancer-wisconsin/wdbc.names, 1996.
